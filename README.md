@@ -2,9 +2,11 @@
 
 <p align="center">
   <a href="https://www.scrapingbee.com/">
-    <img src="REPLACE_WITH_SCREENSHOT_URL" alt="naukri-api" />
+    <img src="https://github.com/user-attachments/assets/0686d802-0cda-4517-9704-dcb1fd7415e4" alt="naukri-api" />
   </a>
 </p>
+
+
 
 [![checks](https://github.com/ScrapingBee/naukri-api/workflows/checks/badge.svg)](https://github.com/ScrapingBee/naukri-api/actions)
 [![license](https://img.shields.io/github/license/ScrapingBee/naukri-api.svg)](LICENSE)
